@@ -38,3 +38,14 @@ function solution(str){
 }
 ```
 ---
+### Courses:
+- HTML and CSS Tutorials
+- JavaScript 
+- RS Schools Course «JavaScript/Front-end.
+
+---
+
+### Languages:
+
+__1.__ __English__ 
+__2.__ __Ukrainian__
